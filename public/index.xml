@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airbnb&#39;s in New York</title>
+    <link>http://AirbnbinNY.org/</link>
+    <description>Recent content on Airbnb&#39;s in New York</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Apr 2021 15:38:25 +0200</lastBuildDate><atom:link href="http://AirbnbinNY.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://AirbnbinNY.org/posts/my-first-post/</link>
+      <pubDate>Sun, 25 Apr 2021 15:38:25 +0200</pubDate>
+      
+      <guid>http://AirbnbinNY.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

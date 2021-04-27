@@ -1,0 +1,4 @@
+baseURL = "http://AirbnbinNY.org/"
+languageCode = "en-us"
+title = "Airbnb's in New York"
+theme = "ananke" 
