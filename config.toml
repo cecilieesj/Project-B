@@ -1,4 +1,4 @@
-baseURL = "http://AirbnbinNY.org/"
+baseURL = "https://github.com/cecilieesj/Project-B.git"
 languageCode = "en-us"
 title = "Airbnb's in New York"
 theme = "ananke" 
